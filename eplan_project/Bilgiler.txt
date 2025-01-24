@@ -1,3 +1,0 @@
-Forms 		-> mubea projesinde kullanılan form template lerini içerir.
-
-PlotFrames 	-> projede kullanılan plot template lerini içerir.
